@@ -1,4 +1,2 @@
-"# kuis" 
-"# kuis" 
-"# kuis" 
-"# kuis" 
+MASUK
+<a href="pertanyaan.html">masuk</a>
